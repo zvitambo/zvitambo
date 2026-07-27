@@ -1,5 +1,7 @@
 # 💫 About Me:
-AI Engineer | Senior Software Engineer | Backend & Distributed Systems | Node.js • Python • AWS | AI & Data Platforms | Microservices | SaaS Architecture | React / Next.js
+AI Engineer | Senior Software Engineer | Backend & Distributed Systems | Node.js • Python • AWS | AI & Data Platforms | Microservices | SaaS Architecture | React / Next.js.
+
+
 Engineer with over 12 years of experience in IT, including 5+ years specializing in AI, focused on designing, building, and deploying production-grade systems and cloud-native applications. Strong hands-on expertise in Python, Generative AI, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), FastAPI, AWS, Docker, Kubernetes, and CI/CD. Bringing a track record of delivering enterprise AI solutions, including integration of vector databases, retrieval systems, APIs, and evaluation frameworks, with an emphasis on scalability, reliability, and observability. Experienced in leading and mentoring teams, while remaining grounded, collaborative, and committed to continuous learning. Known for working closely with cross-functional teams to deliver practical, high-impact outcome.
 
 
